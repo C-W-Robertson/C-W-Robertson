@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @C-W-Robertson
 - 👀 I’m interested in React development, machine learning, and coding for games and apps
-- 🌱 I’m currently learning front end development through UC San Diego
+- 🌱 I just finished learning front end development through UC San Diego
+- I just finished the NextGen extern program with ServiceNow
 - 💞️ I’m looking to collaborate on anything that involves storytelling and interaction!
 - 📫 How to reach me: cwr@duck.com
 
